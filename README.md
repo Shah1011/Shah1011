@@ -3,15 +3,15 @@
 
 ![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/user-attachments/assets/c6c90312-93c6-45b3-8088-e06ed3af1fea)
 
-- 🧑🏻‍💻I’m currently working at **NetApp**
+- 🧑🏻‍💻 I’m currently working at **NetApp**
 
-- 🪴I’m currently learning **AWS, GCP, DevOps, Linux, DSA, Chess♟️**
+- 🪴 I’m currently learning **AWS, GCP, DevOps, Linux, DSA, Chess♟️**
 
-- 🔥View my portfolio at [https://iamshah.blog](https://iamshah.blog)
+- 🔥 View my portfolio at [https://iamshah.blog](https://iamshah.blog)
 
-- ✒️I sometimes write articles on [iamshah.hashnode.com](iamshah.hashnode.com)
+- ✒️ I sometimes write articles on [iamshah.hashnode.com](iamshah.hashnode.com)
 
-- 📞Contact me on **shah.official1011@gmail.com**
+- 📞 Contact me on **shah.official1011@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
