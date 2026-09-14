@@ -7,7 +7,7 @@
 
 - 🪴 I’m currently learning **AWS, GCP, DevOps, Linux, DSA, Chess♟️**
 
-- 🔥 View my portfolio at [https://iamshah.blog](https://iamshah.blog)
+- 🔥 View my portfolio at [https://iamshah.blog](https://iamshah.vercel.app)
 
 - ✒️ I sometimes write articles on [iamshah.hashnode.com](iamshah.hashnode.com)
 
